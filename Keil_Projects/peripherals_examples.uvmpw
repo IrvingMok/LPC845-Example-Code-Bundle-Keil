@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\peripherals_lib\peripherals_lib.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\utilities_lib\utilities_lib.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\ADC_Seqa_Seqb\ADC_Seqa_Seqb.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Analog_Comparator\Analog_Comparator.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\CapTouch_3Sensor_Slider\CapTouch_3Sensor_Slider.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\CapTouch_6Sensor_Wheel\CapTouch_6Sensor_Wheel.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\CapTouch_9Sensor_Button\CapTouch_9Sensor_Button.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\CapTouch_Wakeup_9Sensor_Button\CapTouch_Wakeup_9Sensor_Button.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Ctimer_PWM\Ctimer_PWM.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\DAC\DAC.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\DeepPD_WKT\DeepPD_WKT.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\DMA_UART\DMA_UART.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\FAIM_and_Clocks\FAIM_and_Clocks.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Flash_IAP\Flash_IAP.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\GPIO_Interrupts\GPIO_Interrupts.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\GPIO_Pattern_Match\GPIO_Pattern_Match.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C_MasterSlave\I2C_MasterSlave.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C_Wakeup_Master\I2C_Wakeup_Master.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C_Wakeup_Slave\I2C_Wakeup_Slave.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Multi_Timer_Blinky\Multi_Timer_Blinky.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\PMU_Modes\PMU_Modes.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\ROM_Divide\ROM_Divide.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SCT_Event_Counter\SCT_Event_Counter.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SCT_Event_Timer\SCT_Event_Timer.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SCT_PWM_2State\SCT_PWM_2State.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SPI_Wakeup_Master\SPI_Wakeup_Master.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SPI_Wakeup_Slave\SPI_Wakeup_Slave.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SPI0M_SPI1S\SPI0M_SPI1S.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\UART0_Terminal\UART0_Terminal.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\USART_Wakeup_Master\USART_Wakeup_Master.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\USART_Wakeup_Slave\USART_Wakeup_Slave.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\USART1M_USART2S\USART1M_USART2S.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\WWDT\WWDT.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>
